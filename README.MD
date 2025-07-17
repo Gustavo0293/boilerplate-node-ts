@@ -65,17 +65,3 @@ $ npm install
 | :---------------------------------------------------------------------------------------------------------------------------------------: |
 |                                            [Linkedin](https://www.linkedin.com/in/gustavo-da-silva-a199942b9/)                                             |
 
-# Credits
-
-icons by [Pino Lamanna][dribble-icon]
-
-[typescript]: https://www.typescriptlang.org/
-[typescript-5-4]: https://www.typescriptlang.org/
-[ts-badge]: https://img.shields.io/badge/TypeScript-5.4-blue.svg
-[nodejs-badge]: https://img.shields.io/badge/Node.js->=%2020.00-blue.svg
-[nodejs]: https://nodejs.org/
-[dribble-icon]: https://dribbble.com/Schakalwal
-[typescript-npm]: https://www.npmjs.com/package/typescript
-[tsx-npm]: https://www.npmjs.com/package/tsx
-[tsup-npm]: https://www.npmjs.com/package/tsup
-[@types/node-npm]: https://www.npmjs.com/package/@types/node
